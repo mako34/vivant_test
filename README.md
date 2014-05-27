@@ -3,6 +3,8 @@ vivant_test
 
 Vivant test Manuel Betancurt, temporary
 
+mobile 0451 043 434
+juanman234@gmail.com
 
 Libraries managed using Cocoapods
 
